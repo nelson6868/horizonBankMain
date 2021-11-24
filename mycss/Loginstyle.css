@@ -57,7 +57,7 @@ form {
     margin-top: 2rem;
     margin-left: auto;
     margin-right: auto;
-    height: 23rem;
+    height: 90rem;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 
 }
@@ -77,16 +77,19 @@ form {
        width: 13rem; 
       text-decoration: none;
       position: absolute;
-       right: 150px;
+       right: 300px;
        font-size: 16px;
-
-
-   
-
-    
+       padding-top: -4rem;
 }
-
-
+.fot{
+  display:flex;
+  background:#fff;
+  margin-top:74rem;
+  height:auto;
+  font-size: 10px;
+  
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
 .title{
     height: 3rem;
     width: 23rem;
@@ -199,6 +202,15 @@ a {
           -ms-transform: translateY(-50%);
           transform: translateY(-50%);
           font-family: 'icomoon'; }
+
+          .formmobileResponsive{
+            background-color: #fff;
+            margin-top: 1rem;
+            margin-left: auto;
+            margin-right: auto;
+            height: 90rem;
+        
+        }
       .site-navbar .site-navigation .site-menu .has-children .dropdown {
         visibility: hidden;
         opacity: 0;
@@ -482,7 +494,7 @@ a {
             margin-top: 1rem;
             margin-left: auto;
             margin-right: auto;
-            height: 23rem;
+            height: 90rem;
         
         }
       
@@ -510,7 +522,15 @@ a {
             
         }
       
-        
+        .fot{
+          display:flex;
+          background:#fff;
+          margin-top:110rem;
+          height:auto;
+          font-size: 10px;
+          
+          box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        }
         .title{
             height: 3rem;
             width: 23rem;
