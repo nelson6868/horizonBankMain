@@ -1,0 +1,90 @@
+form {
+    max-width: 900px;
+    display: block;
+    margin: 0 auto;
+  
+  }
+  .formmobileResponsive{
+      background-color: #fff;
+      margin-top: 1rem;
+      margin-left: auto;
+      margin-right: auto;
+      height: 23rem;
+  
+  }
+
+  
+  .maxContainer{
+      max-width: 100%;
+  }
+
+
+  .btn{
+    
+        background-color: #2e6da3; 
+        border: none;
+        color: white;
+      text-align: center;
+         width: 13rem; 
+        text-decoration: none;
+        position: absolute;
+         right: 150px;
+         font-size: 16px;
+ 
+
+     
+
+      
+  }
+
+  
+  .title{
+      height: 3rem;
+      width: 23rem;
+       padding-top: 1rem;
+      background-color: #b5b5b5;
+      margin-left: auto;
+      margin-right: auto;
+      color:#fff;
+      text-align:left;
+      font-size: 1rem;
+      margin-top: 2rem;
+     
+  }
+  
+  @media (max-width: 991.98px) {
+   
+    form {
+        max-width: 400px;
+       
+        margin: 0 auto;
+        
+      
+      }
+      .formmobileResponsive{
+          background-color: #fff;
+          margin-top: 1rem;
+          margin-left: auto;
+          margin-right: auto;
+          height: 23rem;
+      
+      }
+    
+
+    } 
+    .title{
+      height: 3rem;
+      width: 23rem;
+       padding-top: 1rem;
+      background-color: #ccc;
+      margin-left: auto;
+      margin-right: auto;
+      
+      text-align: center;
+      font-weight: bold;
+      margin-top: 2rem;
+  }
+
+  
+  
+  
